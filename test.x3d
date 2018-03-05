@@ -13,6 +13,7 @@
 		</NavigationInfo>
 		<WorldInfo info='"3D output created by ArtiosCAD","units mm","http://www.esko.com"' title="K25550A01">
 		</WorldInfo>
+		<directionalLight id="directional" direction='0 0 1' on ="TRUE" intensity='1.0' shadowIntensity='0.0'> </directionalLight>
 		<Transform scale='1 1 1'>
 			<Transform DEF="Design1t2" rotation='0 0 1 0' translation='128.452 -4.293 79.585'>
 				<Transform translation='-128.452 4.293 -79.585'>
